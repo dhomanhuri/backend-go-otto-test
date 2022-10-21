@@ -27,4 +27,4 @@ create .env like .env.example
 | GET | /api/transaction/redemption | transactionId | get detail transaction by transaction id |
 
 ## ERD
-<img src=".otto.jpg">
+<img src="./otto.jpg">
