@@ -11,7 +11,6 @@ clone this repository
 create database mysql
 create .env like .env.example
 
-
 ## 💻 Api Doc
 
 <div>
@@ -27,3 +26,5 @@ create .env like .env.example
 | POST | /api/transaction/redemption | - | add voucher in transaction |
 | GET | /api/transaction/redemption | transactionId | get detail transaction by transaction id |
 
+## ERD
+<img src=".otto.jpg">
