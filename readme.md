@@ -7,9 +7,9 @@
 Backend Developer task for join opportunity otto digital as backend developer using golang
 
 ## 💻 Step to run program
-clone this repository
-create database mysql
-create .env like .env.example
+clone this repository<br>
+create database mysql<br>
+create .env like .env.example<br>
 
 ## 💻 Api Doc
 
