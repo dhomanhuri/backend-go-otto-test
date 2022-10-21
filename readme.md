@@ -1,4 +1,4 @@
-# Lami app
+# Voucher app
 
 <!-- ABOUT THE PROJECT -->
 
